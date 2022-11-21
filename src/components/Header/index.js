@@ -24,6 +24,9 @@ export function Header(){
                  <Link to="/admin/social">
                     Redes sociais
                  </Link>
+                 <Link to="/">
+                    Home
+                 </Link>
 
             </div>
         </header>
